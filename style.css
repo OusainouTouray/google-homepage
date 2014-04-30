@@ -1,0 +1,121 @@
+.a{
+	color: #404040;
+	text-decoration: none;
+}
+
+
+ #header{
+	font: 13px/27px Arial,sans-serif;
+	position: relative;
+	height: 60px;
+	width: 1380px;
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: right;
+}
+
+
+.nav{
+	display: inline-block;
+	padding-right: 15px;
+}
+
+
+.apps{
+	background-image: url(apps.png);
+	width: 27px;
+	height: 27px;
+	display: inline-block;
+	outline: none;
+	vertical-align: middle;
+}
+
+
+#sign-in{
+	font: 13px/27px Arial,sans-serif;
+	color: #fff;
+	border: 1px solid #4285f4;
+	font-weight: bold;
+	outline: none;
+	background: #4387fd;
+	line-height: 28px;
+	padding: 0 12px;
+	border-radius: 2px;
+}
+
+
+#main{
+	height: 333px;
+}
+
+
+#logo{
+	height: 95px;
+	width: 269px;
+	padding-top: 112px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#google{
+	padding-bottom: 20px;
+}
+
+
+#text-box{
+	height: 27px;
+	width: 570px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.button-list{
+	
+	margin-left: auto;
+	margin-right: auto;
+	width: 570px;
+	text-align: center;
+}
+
+
+.search-button{
+	font: bold 11px Arial,sans-serif;
+	height: 27px;
+	padding-left: 8px;
+	padding-right: 8px;
+	border: 1px solid #dcdcdc;
+	border-radius: 2px;
+	background: #f1f1f1;
+	color: #444;
+	margin: 16px 8px;
+}
+
+
+#footer{
+	font: 13px/27px Arial,sans-serif;
+	background: #f2f2f2;
+	border-top: 1px solid #e4e4e4;
+    line-height: 40px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	color: #666;
+}
+
+
+.left-links {
+	padding-left: 27px;
+	float: left;
+	color: 666;
+}
+
+
+.right-links {
+	padding-right: 27px;
+	float: right;
+}
